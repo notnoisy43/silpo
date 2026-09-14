@@ -1,0 +1,11 @@
+:root{
+  --ink:#101418;        /* trace panel, dark surfaces */
+  --paper:#FFFFFF;
+  --haze:#EEF1F4;       /* neutral card surface */
+  --silpo:#E4002B;      /* agent action ONLY: "Додати" button, confidence badge */
+  --storm:#2E4A6B;      /* weather signal */
+  --muted:#5A6472;
+  --ok:#1B7F5A;
+  --radius-card:14px;
+  --radius-pill:999px;
+}
