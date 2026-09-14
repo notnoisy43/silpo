@@ -1,4 +1,4 @@
-COMPOSE := docker compose
+COMPOSE := docker-compose
 
 .PHONY: up down logs migrate seed test fmt
 
